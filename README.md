@@ -36,7 +36,7 @@ Other: Flutter, Python automation, REST APIs, Security tools
 📫 How to reach me
 - Freelance / Work: Upwork
 - GitHub: https://github.com/TheSukhSingh
-- Portfolio: (coming soon 👀)
+- Portfolio: https://thesukhsingh.com
 
 
 ⚡ Fun fact
