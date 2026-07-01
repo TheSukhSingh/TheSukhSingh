@@ -34,9 +34,8 @@ DevOps: Docker, GitHub Actions, Nginx, AWS
 Other: Flutter, Python automation, REST APIs, Security tools
 
 📫 How to reach me
-- Freelance / Work: Upwork
-- GitHub: https://github.com/TheSukhSingh
-- Portfolio: https://thesukhsingh.com
+- Freelance / Work: Upwork 
+- Portfolio: https://thesukhsingh.com (Under development - will be live soon)
 
 
 ⚡ Fun fact
